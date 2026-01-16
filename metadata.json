@@ -1,0 +1,5 @@
+{
+  "name": "UnderwriteAI",
+  "description": "An intelligent loan underwriting assistant that analyzes financial documents to generate comprehensive loan profiles and risk assessments using Gemini 1.5 Pro.",
+  "requestFramePermissions": []
+}
