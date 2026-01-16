@@ -6,6 +6,8 @@ export interface UploadedFile {
   mimeType: string;
 }
 
+export type Theme = 'space' | 'light';
+
 export enum RiskLevel {
   LOW = 'Low',
   MEDIUM = 'Medium',
